@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-03T05:47:21.401042600Z</date>
+  <millis>1698990441401</millis>
+  <nanos>42600</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Enter you nickname:</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:24.923077700Z</date>
+  <millis>1698990444923</millis>
+  <nanos>77700</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startOutputThread$1</method>
+  <thread>32</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Maxim</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:24.926595600Z</date>
+  <millis>1698990444926</millis>
+  <nanos>595600</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Welcome to the network chat, Maxim!</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:24.926595600Z</date>
+  <millis>1698990444926</millis>
+  <nanos>595600</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Maxim connected.</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:42.025576900Z</date>
+  <millis>1698990462025</millis>
+  <nanos>576900</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startOutputThread$1</method>
+  <thread>32</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Hello</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:42.030094200Z</date>
+  <millis>1698990462030</millis>
+  <nanos>94200</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Maxim: Hello</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:55.049655Z</date>
+  <millis>1698990475049</millis>
+  <nanos>655000</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Anton connected.</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:56.968087300Z</date>
+  <millis>1698990476968</millis>
+  <nanos>87300</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Anton: Hello</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:11.793940300Z</date>
+  <millis>1698990491793</millis>
+  <nanos>940300</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startOutputThread$1</method>
+  <thread>32</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Hi</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:11.794940800Z</date>
+  <millis>1698990491794</millis>
+  <nanos>940800</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Maxim: Hi</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:22.091422600Z</date>
+  <millis>1698990502091</millis>
+  <nanos>422600</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Anton: Test chat</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:48.702188200Z</date>
+  <millis>1698990528702</millis>
+  <nanos>188200</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Anton: Where is anotherclient log</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:54.319441500Z</date>
+  <millis>1698990534319</millis>
+  <nanos>441500</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startOutputThread$1</method>
+  <thread>32</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: idk</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:54.321444300Z</date>
+  <millis>1698990534321</millis>
+  <nanos>444300</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Client</class>
+  <method>lambda$startInputThread$0</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:21 GMT+03:00 2023: Maxim: idk</message>
+</record>
+</log>

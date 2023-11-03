@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-03T05:44:17.335246700Z</date>
+  <millis>1698990257335</millis>
+  <nanos>246700</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Server started</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-03T05:45:56.001819900Z</date>
+  <millis>1698990356001</millis>
+  <nanos>819900</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Server started</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-03T05:46:10.830457900Z</date>
+  <millis>1698990370830</millis>
+  <nanos>457900</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Server started</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-03T05:47:16.056821800Z</date>
+  <millis>1698990436056</millis>
+  <nanos>821800</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Server started</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:42.029088800Z</date>
+  <millis>1698990462029</millis>
+  <nanos>88800</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>waitMsgAndSend</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:47:42 GMT+03:00 2023: Maxim Hello</message>
+</record>
+<record>
+  <date>2023-11-03T05:47:56.966488900Z</date>
+  <millis>1698990476966</millis>
+  <nanos>488900</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>waitMsgAndSend</method>
+  <thread>32</thread>
+  <message>Fri Nov 03 08:47:56 GMT+03:00 2023: Anton Hello</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:11.794940800Z</date>
+  <millis>1698990491794</millis>
+  <nanos>940800</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>waitMsgAndSend</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:48:11 GMT+03:00 2023: Maxim Hi</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:22.090423100Z</date>
+  <millis>1698990502090</millis>
+  <nanos>423100</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>waitMsgAndSend</method>
+  <thread>32</thread>
+  <message>Fri Nov 03 08:48:22 GMT+03:00 2023: Anton Test chat</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:48.701186300Z</date>
+  <millis>1698990528701</millis>
+  <nanos>186300</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>waitMsgAndSend</method>
+  <thread>32</thread>
+  <message>Fri Nov 03 08:48:48 GMT+03:00 2023: Anton Where is anotherclient log</message>
+</record>
+<record>
+  <date>2023-11-03T05:48:54.320444300Z</date>
+  <millis>1698990534320</millis>
+  <nanos>444300</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.Server</logger>
+  <level>INFO</level>
+  <class>org.example.Server</class>
+  <method>waitMsgAndSend</method>
+  <thread>31</thread>
+  <message>Fri Nov 03 08:48:54 GMT+03:00 2023: Maxim idk</message>
+</record>
+</log>
